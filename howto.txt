@@ -1,0 +1,8 @@
+http://127.0.0.1:5000/add2?x=1&y=5
+
+https://medium.com/geekculture/effectively-running-r-scripts-from-aws-lambda-functions-6af85caa1571
+
+
+https://aws.amazon.com/blogs/developer/run-blazor-based-net-web-applications-on-aws-serverless/
+
+aws s3 sync . s3://web-grace
